@@ -101,7 +101,7 @@ function s3syncer(db, options) {
 
   function uploadFile(details, next) {
     var absolute = details.fullPath
-      , relative = (prefix + details.path)
+      , relative = prefix + details.path
       , lasterr
       , off = backoff.fibonacci({
         initialDelay: 1000
