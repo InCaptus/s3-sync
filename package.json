@@ -13,9 +13,6 @@
     "event-stream": "3.0.16",
     "once": "~1.1.1"
   },
-  "peerDependencies": {
-    "level": "1.0.0"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
