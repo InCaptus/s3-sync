@@ -12,7 +12,7 @@
     "knox": "~0.8.3",
     "event-stream": "3.0.16",
     "once": "~1.1.1",
-    "level": "1.0.0"
+    "level": "~1.0.0"
   },
   "devDependencies": {},
   "scripts": {
