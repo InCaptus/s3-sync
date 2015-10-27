@@ -11,8 +11,7 @@
     "xtend": "~2.0.6",
     "knox": "~0.8.3",
     "event-stream": "3.0.16",
-    "once": "~1.1.1",
-    "level": "~1.0.0"
+    "once": "~1.1.1"
   },
   "devDependencies": {},
   "scripts": {
